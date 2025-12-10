@@ -1,0 +1,5 @@
+{
+  "name": "Minibus Fare Collector",
+  "description": "A high-speed, mobile-first fare collection tool designed for taxi assistants (redats) to track payments and calculate change instantly.",
+  "requestFramePermissions": []
+}
